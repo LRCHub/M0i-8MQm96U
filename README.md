@@ -1,0 +1,45 @@
+# HYDE – THE ABYSS
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Many scripts designed for this intricate world
+A countless choice we have, but it doesn't
+uphold
+It's easy, says the know-it-all
+Always not responsible
+When it does collapse
+They'll pretend not to know
+Someone tell me once again
+What is right and what is wrong
+Gotta choose the only road
+What it's going to be Help me see
+Playfully, destiny rings the doorbell
+I cannot fight or resist Obey them all
+Whatever choice that I make I won't succeed
+Arriving The edge of the abyss
+We cannot redo all the things that have passed
+If you wait to choose, it will be in the past
+Should you hastily answer though
+You'll misjudge the current flow
+Decisiveness will not always win for us all
+Someone tell me once again
+What is right and what is wrong
+Gotta choose the only road
+What it's going to be Help me see
+Playfully, destiny rings the doorbell
+I cannot fight or resist Obey them all
+Whatever choice that I make I won't succeed
+Arriving The edge of...
+Can't perceive behind the wall
+Can't perceive beyond at all
+The ones that try to climb above
+The ones who pray it crumbles down
+Can't perceive beyond today
+The vision starts to slip away and betray
+Oh well
+Playfully, destiny rings the doorbell
+I cannot fight or resist Obey them all
+Whatever choice that I make I won't succeed
+Arriving The edge of the abyss
+```
