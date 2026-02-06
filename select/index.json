@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "THE ABYSS",
+  "base_artist": "HYDE",
+  "createdAt": "2026-02-06T00:59:00.305801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lord of the Abyss",
+      "artist": "Necromantia",
+      "has_synced": false,
+      "path": "select/01_Lord_of_the_Abyss_Necromantia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Within The Abyss",
+      "artist": "Marduk",
+      "has_synced": false,
+      "path": "select/02_Within_The_Abyss_Marduk.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Abyss",
+      "artist": "Accept",
+      "has_synced": false,
+      "path": "select/03_The_Abyss_Accept.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Abyss",
+      "artist": "Deathless Legacy",
+      "has_synced": false,
+      "path": "select/04_The_Abyss_Deathless_Legacy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Foul Step From the Abyss",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/05_One_Foul_Step_From_the_Abyss_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Abyss",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/06_The_Abyss_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Abyss",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/07_The_Abyss_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Abyss Of Your Eyes",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/08_The_Abyss_Of_Your_Eyes_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Abyss Of Your Eyes",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/09_The_Abyss_Of_Your_Eyes_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Creating The Abyss",
+      "artist": "Toxik",
+      "has_synced": true,
+      "path": "select/10_Creating_The_Abyss_Toxik.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seasons In the Abyss",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/11_Seasons_In_the_Abyss_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Seasons In The Abyss (Alternative Mix)",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/12_Seasons_In_The_Abyss_(Alternative_Mix)_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Facing the Abyss",
+      "artist": "Sick Of It All",
+      "has_synced": true,
+      "path": "select/13_Facing_the_Abyss_Sick_Of_It_All.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oath of the Abyss",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/14_Oath_of_the_Abyss_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Abyss",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/15_The_Abyss_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Out of the Abyss",
+      "artist": "Bo Burnham",
+      "has_synced": true,
+      "path": "select/16_Out_of_the_Abyss_Bo_Burnham.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE ABYSS",
+      "artist": "HYDE",
+      "has_synced": false,
+      "path": "select/pl_01_THE_ABYSS_HYDE.txt"
+    }
+  ]
+}
